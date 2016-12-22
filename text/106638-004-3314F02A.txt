@@ -1,0 +1,2 @@
+Electrophoresis, also called cataphoresis,  the movement of electrically charged particles in a fluid under the influence of an electric field. If the liquid rather than the particles is set in motion—e.g., through a fixed diaphragm—the phenomenon is called electroosmosis.
+Electrophoresis is used to analyze and separate colloids (e.g., proteins) or to deposit coatings, as on elements used in electron tubes.

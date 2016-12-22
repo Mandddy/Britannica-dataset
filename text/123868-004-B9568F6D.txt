@@ -1,0 +1,2 @@
+Weather map, any map or chart that shows the meteorological elements at a given time over an extended area.
+The earliest weather charts were made by collecting synchronous weather reports by mail. However, it was not until 1816 that German physicist Heinrich Wilhelm Brandes created the first weather maps, which were hand drawn and reconstructed from data collected in 1783. The first telegraphic collection of synoptic meteorological reports and their mapping for forecasting was accomplished by Urbain-J.-J. Le Verrier during the mid-1800s.

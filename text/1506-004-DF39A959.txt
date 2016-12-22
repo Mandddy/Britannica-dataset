@@ -1,0 +1,2 @@
+Optical ceramics, advanced industrial materials developed for use in optical applications.
+Optical materials derive their utility from their response to infrared, optical, and ultraviolet light. The most obvious optical materials are glasses, which are described in the article industrial glass, but ceramics also have been developed for a number of optical applications. This article surveys several of these applications, both passive (e.g., windows, radomes, lamp envelopes, pigments) and active (e.g., phosphors, lasers, electro-optical components).

@@ -1,0 +1,2 @@
+Google Earth, Web-based mapping service introduced in 2005 by the American search engine company Google Inc.
+Google Earth allows users to call up on their computer screens detailed satellite images of most locations on the Earth. These maps can be combined (“mashed up”) with various overlays—such as street names, weather patterns, crime statistics, coffee-shop locations, real-estate prices, population densities, and so forth—supplied by other companies and individuals.

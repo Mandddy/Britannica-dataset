@@ -1,0 +1,2 @@
+Assembly line, industrial arrangement of machines, equipment, and workers for continuous flow of workpieces in mass-production operations.
+The design for an assembly line is determined by analyzing the steps necessary to manufacture each product component as well as the final product. All movement of material is simplified, with no cross flow, backtracking, or repetitious procedure. Work assignments, numbers of machines, and production rates are programmed so that all operations along the line are compatible.

@@ -1,0 +1,2 @@
+Deformation and flow, in physics, alteration in shape or size of a body under the influence of mechanical forces. Flow is a change in deformation that continues as long as the force is applied.
+A brief treatment of deformation and flow follows. For full treatment, see mechanics.

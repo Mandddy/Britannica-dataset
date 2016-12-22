@@ -1,0 +1,2 @@
+Hygrometer, instrument used in meteorological science to measure the humidity, or amount of water vapour in the air. Several major types of hygrometers are used to measure humidity.
+Mechanical hygrometers make use of the principle that organic substances (particularly finer substances such as goldbeater’s skin [ox gut] and human hair) contract and expand in response to the humidity. Contraction and expansion of the hair element in a mechanical hygrometer causes the spring to move the needle on the dial.

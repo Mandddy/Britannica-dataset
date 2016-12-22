@@ -1,0 +1,2 @@
+Diffusion, process resulting from random motion of molecules by which there is a net flow of matter from a region of high concentration to a region of low concentration. A familiar example is the perfume of a flower that quickly permeates the still air of a room.
+Heat conduction in fluids involves thermal energy transported, or diffused, from higher to lower temperature. Operation of a nuclear reactor involves the diffusion of neutrons through a medium that causes frequent scattering but only rare absorption of neutrons.

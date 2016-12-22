@@ -1,0 +1,2 @@
+Collimator, device for changing the diverging light or other radiation from a point source into a parallel beam. This collimation of the light is required to make specialized measurements in spectroscopy and in geometric and physical optics.
+An optical collimator consists of a tube containing a convex lens at one end and an adjustable aperture at the other, the aperture being in the focal plane of the lens. Radiation entering the aperture leaves the collimator as a parallel beam, so that the image can be viewed without parallax.

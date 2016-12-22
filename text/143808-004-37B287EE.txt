@@ -1,0 +1,1 @@
+Phonofilm,  system used in the 1920s to provide sound synchronized with motion pictures. A sound track was photographically recorded on the film by a beam of light modulated by the sound waves. The sound was reproduced during projection by directing a beam of light through the sound track onto a photocell, the response of which was electronically amplified.

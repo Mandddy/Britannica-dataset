@@ -1,0 +1,1 @@
+Link Trainer,  airplane cockpit replicated, with full instruments and controls, in such a way that it can be used in a ground location for pilot training. The cockpit responds to the controls as though it were an airplane in flight. The Link Trainer was the first effective flight simulator.

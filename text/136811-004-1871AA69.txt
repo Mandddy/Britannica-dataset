@@ -1,0 +1,1 @@
+Frost point,  temperature, below 0° C (32° F), at which moisture in the air will condense as a layer of frost on any exposed surface. The frost point is analogous to the dew point, the temperature at which the water condenses in liquid form; both the frost point and the dew point depend upon the relative humidity of the air.

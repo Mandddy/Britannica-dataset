@@ -1,0 +1,2 @@
+Diesinking,  process of machining a cavity in a steel block to be used for molding plastics, or for hot and cold forging, die-casting, and coining.
+The die block is mounted on a table while a vertical-spindle milling machine with end cutters is used to shape the die. In most simple machines the movement of the cutter may be controlled by the manual operation of transverse, horizontal, and vertical feeds. Patterns of sheet metal or plastic may be used as guides. A pantograph, four light rigid bars in a parallelogram, may be used to cause the cutter to follow a certain layout.

@@ -1,0 +1,2 @@
+VTOL airplane, abbreviation of Vertical Takeoff And Landing Airplane,  any of several unconventional aircraft with rotating wing systems, such as the helicopter and autogiro. They may also have rotatable jet systems capable of vertical lift-off and landing in areas that only slightly exceed the overall dimensions of the aircraft.
+The first operational VTOL jet aircraft was the British Royal Air Force Harrier; its jet engines are mounted horizontally, with their blast deflected downward to effect vertical thrust for takeoff. It achieved high subsonic speeds in level flight.

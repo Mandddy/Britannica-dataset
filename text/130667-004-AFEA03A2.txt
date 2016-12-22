@@ -1,0 +1,2 @@
+Airfoil, also spelled Aerofoil,  shaped surface, such as an airplane wing, tail, or propeller blade, that produces lift and drag when moved through the air. An airfoil produces a lifting force that acts at right angles to the airstream and a dragging force that acts in the same direction as the airstream.
+High-speed aircraft usually employ low-drag, low-lift airfoils that are thin and streamlined. Slow aircraft that carry heavy loads use thicker airfoils with high drag and high lift.

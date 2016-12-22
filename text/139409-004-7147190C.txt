@@ -1,0 +1,2 @@
+Gregorian calendar, also called New Style Calendar ,  solar dating system now in general use. It was proclaimed in 1582 by Pope Gregory XIII as a reform of the Julian calendar.
+By the Julian reckoning, the solar year comprised 365 1/4 days; the intercalation of a “leap day” every four years was intended to maintain correspondence between the calendar and the seasons. A slight inaccuracy in the measurement (the solar year comprising more precisely 365 days, 5 hours, 48 minutes, 45.25 seconds) caused the calendar dates of the seasons to regress almost one day per century.

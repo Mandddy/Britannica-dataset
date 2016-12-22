@@ -1,0 +1,2 @@
+Insulator, any of various substances that block or retard the flow of electrical or thermal currents.
+Although an electrical insulator is ordinarily thought of as a nonconducting material, it is in fact better described as a poor conductor or a substance of high resistance to the flow of electric current. Different insulating and conducting materials are compared with each other in this regard by means of a material constant known as resistivity. See also semiconductor.
