@@ -1,0 +1,20 @@
+Animals 1374
+Art and Music 1944
+Astronomy 272
+Biological Sciences 44
+Chemistry 117
+Countries of the World  402
+Earth and Geography 1499
+Government, Law, and Politics 475
+Health and Medicine 266
+History 1422
+Life and the Biosphere 592
+Literature 1144
+Mathematics 84
+Philosophy 74
+Physics 210
+Plants 237
+Religion 772
+Society 870
+Sports and Recreation 539
+Technology 1552
